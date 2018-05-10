@@ -1,0 +1,77 @@
+﻿  AntiAim.cpp
+  Autowall.cpp
+  Backtracking.cpp
+  Chams.cpp
+  characterset.cpp
+  Checksum_md5.cpp
+  Controls.cpp
+  CRC32.cpp
+  CreateMove.cpp
+  Crosshair.cpp
+  DamageIndicators.cpp
+  debug_protection.cpp
+  DLLMain.cpp
+  DoPostScreenEffects.cpp
+  DrawManager.cpp
+  DrawModelExecute.cpp
+  Dumping.cpp
+  EnginePrediction.cpp
+  Entities.cpp
+  ESP.cpp
+  Compiling...
+  Events.cpp
+  FakeLag.cpp
+  FakeWalk.cpp
+  FindMaterial.cpp
+  FireEventClientSide.cpp
+  FrameStageNotify.cpp
+  Game.cpp
+  GameFunctions.cpp
+  GetViewmodelFov.cpp
+  GUI.cpp
+  Hitmarkers.cpp
+  Hooks.cpp
+  ReflectiveLoader.cpp
+  Interfaces.cpp
+  IsPlayingTimeDemo.cpp
+  KnifeProxy.cpp
+  Legitbot.cpp
+  LinearExtraps.cpp
+  LowerbodyProxy.cpp
+  mac.cpp
+  Compiling...
+  Menu.cpp
+  MetaInfo.cpp
+  NetVarManager.cpp
+  NetVars.cpp
+  SceneEnd.cpp
+  WallModulations.cpp
+  NoSpread.cpp
+  Offsets.cpp
+  OverrideView.cpp
+  PaintTraverse.cpp
+  PlaySound.cpp
+  RageBot.cpp
+  RebuildGameMovement.cpp
+  Resolver.cpp
+  RunCommand.cpp
+  SequenceProxy.cpp
+  Settings.cpp
+  SkinChanger.cpp
+  Spammers.cpp
+  SpoofConVar.cpp
+  Compiling...
+  MiscMovement.cpp
+  tinyxml2.cpp
+  Utilities.cpp
+  UtlBuffer.cpp
+  UtlString.cpp
+  Vaults.cpp
+  Vector4D.cpp
+  Window.cpp
+     Creating library C:\Users\Eagle\Desktop\ayyware-master\Release\skeet.lib and object C:\Users\Eagle\Desktop\ayyware-master\Release\skeet.exp
+  Generating code
+  All 4537 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  AYYWARE CSGO.vcxproj -> C:\Users\Eagle\Desktop\ayyware-master\Release\skeet.dll
+  AYYWARE CSGO.vcxproj -> C:\Users\Eagle\Desktop\ayyware-master\Release\skeet.pdb (Full PDB)
